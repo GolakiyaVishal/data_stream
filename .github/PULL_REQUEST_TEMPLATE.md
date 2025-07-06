@@ -15,8 +15,8 @@ Fixes #456
 ## 🛠 What Changed?
 
 <!-- Bullet point list of major changes -->
-- ✨ Added `createNewAddress()` in AddressRepository
-- ♻️ Refactored `getUserAddresses()` to support forceRefresh
+- ✨ Added `createNewSomething()` in DataRepository
+- ♻️ Refactored `getSomething()` to support forceRefresh
 - 🐛 Fixed JSON parsing edge case in `UtilIdNameResponse`
 
 ## 🧪 How to Test

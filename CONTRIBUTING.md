@@ -1,4 +1,4 @@
-# 🙌 Contributing to Address Repository (Flutter)
+# 🙌 Contributing to Data Repository (Flutter)
 
 Thank you for considering contributing to this project!  
 We welcome all kinds of contributions — bug reports, feature requests, documentation, and pull requests.
@@ -47,5 +47,5 @@ We love code contributions! Please follow these steps:
 #### ⏳ Step 1: Fork and Clone
 
 ```bash
-git clone https://github.com/your-username/address-repository.git
-cd address-repository
+git clone https://github.com/your-username/data_stream.git
+cd data_stream
