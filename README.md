@@ -1,6 +1,6 @@
 # 🏠 Data Stream
 
-This repository provides a clean, extendable, and production-ready implementation of an **AddressRepository** pattern in Flutter. It features:
+This repository provides a clean, extendable, and production-ready implementation of an **Repository** pattern in Flutter. It features:
 
 - ✅ Singleton architecture
 - ✅ In-memory caching for API responses
